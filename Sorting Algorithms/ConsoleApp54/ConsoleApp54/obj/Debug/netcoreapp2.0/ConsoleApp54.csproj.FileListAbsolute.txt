@@ -1,0 +1,11 @@
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\bin\Debug\netcoreapp2.0\ConsoleApp54.deps.json
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\bin\Debug\netcoreapp2.0\ConsoleApp54.runtimeconfig.json
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\bin\Debug\netcoreapp2.0\ConsoleApp54.runtimeconfig.dev.json
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\bin\Debug\netcoreapp2.0\ConsoleApp54.dll
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\bin\Debug\netcoreapp2.0\ConsoleApp54.pdb
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp2.0\ConsoleApp54.csprojAssemblyReference.cache
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp2.0\ConsoleApp54.csproj.CoreCompileInputs.cache
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp2.0\ConsoleApp54.AssemblyInfoInputs.cache
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp2.0\ConsoleApp54.AssemblyInfo.cs
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp2.0\ConsoleApp54.dll
+c:\users\vaio-pcv\source\repos\ConsoleApp54\ConsoleApp54\obj\Debug\netcoreapp2.0\ConsoleApp54.pdb

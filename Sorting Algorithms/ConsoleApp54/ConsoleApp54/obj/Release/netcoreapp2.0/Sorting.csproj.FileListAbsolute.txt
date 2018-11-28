@@ -1,0 +1,21 @@
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.deps.json
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.runtimeconfig.json
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.runtimeconfig.dev.json
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.dll
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.pdb
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.AssemblyInfo.cs
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.dll
+C:\Users\VAIO-PCV\source\repos\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.pdb
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.deps.json
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.runtimeconfig.json
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.runtimeconfig.dev.json
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.dll
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\bin\Release\netcoreapp2.0\Sorting.pdb
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.csprojAssemblyReference.cache
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.dll
+C:\Users\VAIO\Desktop\портфолио\Алгоритмы сортировок, там тоже есть чуть-чуть делегатов\ConsoleApp54\ConsoleApp54\obj\Release\netcoreapp2.0\Sorting.pdb
